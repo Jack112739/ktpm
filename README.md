@@ -16,6 +16,6 @@ run vnc-server
 kết nối trên thiết bị noVnc thông qua cổng 6901
 <img src="/img/novnc.png">
 truy cập vnc server qua vnc-viwer
-<img src="/img/connect">
+<img src="/img/connect.png">
 đồng bộ 2 màn hình 
-<img src="/img/sync.png>
+<img src="/img/sync.png">
