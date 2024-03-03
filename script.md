@@ -41,13 +41,13 @@ CQRS sẽ chia data model thành 2 model con là "command" dùng để thay đ�
 Vậy thì liệu pattern CQRS có lợi ích gì, ta hãy nhìn vào ví dụ bên trên sau khi áp dụng pattern CQRS, khi đó ta sẽ có 2 model
 <figure>
     <img src="/img/read.png">
-    <figcaption>model query</figcaption>
+    <em>model query</em>
 
     
 </figure>
 <figure>
     <img src="/img/write.png">
-    <figcaption>model command</figcaption>
+    <em>model command</em>
 </figure>
 
 
