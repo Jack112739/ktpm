@@ -39,8 +39,14 @@ CQRS sẽ chia data model thành 2 model con là "command" dùng để thay đ�
 
 <h1> Lợi ích của CQRS </h1>
 Vậy thì liệu pattern CQRS có lợi ích gì, ta hãy nhìn vào ví dụ bên trên sau khi áp dụng pattern CQRS, khi đó ta sẽ có 2 model
-<br><img src="/img/read.png"> model query
-<br><img src="/img/write.png"> model command
+<figure>
+    <img src="/img/read.png">
+    <figcaption>model query</figcaption>
+</figure>
+<figure>
+    <img src="/img/write.png">
+    <figcaption>model command</figcaption>
+</figure>
 Mô hình này đã giải quyết được phần nhiều những vấn đề tụi mình đặt ra ở phần trước đó và thực tế trong các ứng dụng có quy mô lớn, pattern CQRS có thể đem lại một số lợi ích như:
 <ol> 
 <li> Đầu tiên thì giống như những lợi ích khi chia các modules nói chung, pattern này sẽ giúp gia <b> tăng khả năng independent scaling và maintainablity</b> của model đọc và model, tại vì để phát triển hoặc bảo trì một cái thì mình không cần quan tâm cái còn lại </li>
