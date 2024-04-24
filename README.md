@@ -1,3 +1,5 @@
+#sinh viên Nguyễn Đắc Quán: 20020027
+
 # bài tập tết kiến trúc phần mềm
 <h1> 1. Docker </h1> 
 <b> Docker </b> là một phần mềm ảo hoá, cho phép giả lập môi trường của một máy tính khác, để kiểm thử, triển khai ứng dụng. Khác với Virtual machine, Docker sẽ không ảo hoá các tập lệnh phần cứng mà chỉ ảo hoá hệ điều hành với không gian bộ nhớ độc lập với máy tính host Docker đó. <br>
